@@ -23,10 +23,11 @@ Here is a zoom in of the previous diagram.
 ![alt text](./docker-components_2.png "Dokcer components 2x")
 
 # What is a containerization orchestration tool?
-Like Kubernetes, Docker Swarm, and AWS ECS. A containerization orchestration tool usually provides features like scaling, multi-host networking, service discovery, load balancing, etc.
+Container orchestration tools (Kubernetes, ECS, Docker Swarm, etc.) provide an efficient model for packaging, deployment, isolation, service discovery, scaling and rolling upgrades. Most mainstream PaaS solutions have embraced containers, and there are new PaaS implementations that are built on top of container orchestration and management platforms. Customers have the choice of either deploying core container orchestration tools that are more aligned with IT operations, or a PaaS implementation that targets developers.
+
+![alt text](./container-orchestration.png "container orchestration enginge")
 
 # Links
-
 - [Docker Vs Virtualization](https://cloudacademy.com/blog/docker-vs-virtualization/)
 - [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor)
 - [Linux namespaces](https://en.wikipedia.org/wiki/Linux_namespaces)
@@ -36,3 +37,4 @@ Like Kubernetes, Docker Swarm, and AWS ECS. A containerization orchestration too
 - [Dokcer Swarm](https://docs.docker.com/engine/swarm)
 - [Amazon ECS](https://aws.amazon.com/ecs/)
 - [Kubernetes](https://kubernetes.io/)
+- [Kubernetes an overview](https://thenewstack.io/kubernetes-an-overview/)
