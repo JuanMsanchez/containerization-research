@@ -32,7 +32,7 @@ Container orchestration tools (Kubernetes, ECS, Docker Swarm, etc.) provide an e
 - [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor)
 - [Linux namespaces](https://en.wikipedia.org/wiki/Linux_namespaces)
 - [Cgroups](https://en.wikipedia.org/wiki/Cgroups)
-- [Container runtimes](tps://www.ianlewis.org/en/container-runtimes-part-1-introduction-container-r)
+- [Container runtimes](https://www.ianlewis.org/en/container-runtimes-part-1-introduction-container-r)
 - [Containerd](https://blog.docker.com/2017/08/what-is-containerd-runtime/)
 - [Dokcer Swarm](https://docs.docker.com/engine/swarm)
 - [Amazon ECS](https://aws.amazon.com/ecs/)
